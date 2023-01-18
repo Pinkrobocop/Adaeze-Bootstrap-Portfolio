@@ -2,7 +2,7 @@
 # Bootsrap-Portfolio
 
 <p align="center">
-  <img src="https://github.com/Pinkrobocop/Adaeze-Bootstrap-Portfolio/blob/master/BootStrap%20img%20file.png" width="350" title="Bootstrap image for project" 
+  <img src="https://github.com/Pinkrobocop/Adaeze-Bootstrap-Portfolio/blob/master/BootStrap%20img%20file.png" width="550" title="Bootstrap image for project" 
 </p>
 
 A well-balanced portfolio should be designed as per your risk profile. It should be balanced to hedge against unforeseen circumstances. To create a well-balanced portfolio, you should decide your asset allocation as per your risk profile. The well-balanced portfolio definition can vary from investor to investor.
